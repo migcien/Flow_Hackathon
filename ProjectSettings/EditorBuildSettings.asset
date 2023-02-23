@@ -6,15 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Dance Game/1 UI Start.unity
+    path: Assets/Dance Game/0 UI Start.unity
     guid: 099d0b39ba86656419408c4cfc0a4cae
   - enabled: 1
-    path: Assets/Dance Game/2 Dance Game Hub.unity
+    path: Assets/Dance Game/1 Dance Game Hub.unity
     guid: 39ee2c3016a7c5c42978b8e206fd8694
   - enabled: 1
-    path: Assets/Dance Game/3 UI Song Select.unity
+    path: Assets/Dance Game/2 UI Song Select.unity
     guid: 4ac18897048a7d445a5f28a69706b189
   - enabled: 1
-    path: Assets/Dance Game/4 Song 1.unity
+    path: Assets/Dance Game/3 Song 1.unity
     guid: c4e86a40a6886034cabadb982f891488
+  - enabled: 1
+    path: Assets/Dance Game/4 Song 2.unity
+    guid: d1b07adbd96bf574cbf69543a7e56d31
+  - enabled: 1
+    path: Assets/Dance Game/5 Song 3.unity
+    guid: 50905e3bd10fe6048818267b320b1405
   m_configObjects: {}
