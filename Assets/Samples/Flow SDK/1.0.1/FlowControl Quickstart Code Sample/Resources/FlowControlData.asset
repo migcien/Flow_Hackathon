@@ -13,28 +13,26 @@ MonoBehaviour:
   m_Name: FlowControlData
   m_EditorClassIdentifier: 
   _emulatorSettings:
-    emulatorDataDirectory: Assets
+    emulatorDataDirectory: D:/MC100/Flow_Hackathon/FlowEmulator
     flowExecutablePathOverride: 
     runEmulatorInPlayMode: 1
     persistData: 0
     killOtherFlow: 1
     verbose: 1
+    emulatorEndpoint: http://127.0.0.1:8888/v1
   _textReplacements:
-  - description: User Address
-    originalText: '%USERADDRESS%'
-    replacementText: 0x01cf0e2f2f715450
-    active: 1
-    _applyToAccounts:
-    - User
-    _applyToGateways:
-    - Emulator
+  - description: 
+    originalText: 
+    replacementText: 
+    active: 0
+    _applyToAccounts: []
+    _applyToGateways: []
   _accounts:
   - _name: emulator_service_account
     infoKeys:
     - Private Key
     - Address
     infoValues:
-    - 54458440f0ec3a819e6c4c7596ea8f29d23081776271a62d337288904209e0c2
+    - f127b9f2bb30ce39433d5133cdca7b89f3e71916ccc0dde61c16a2077f030749
     - 0xf8d6e0586b0a20c7
     _gatewayName: Emulator
-  _networks: []
