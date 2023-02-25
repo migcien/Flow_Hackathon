@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: FlowControlData
   m_EditorClassIdentifier: 
   _emulatorSettings:
-    emulatorDataDirectory: 
+    emulatorDataDirectory: C:/Users/jaypi/OneDrive/Documents/GitHub/Flow_Hackathon/FlowEmulator
     flowExecutablePathOverride: 
     runEmulatorInPlayMode: 1
     persistData: 1
@@ -51,7 +51,7 @@ MonoBehaviour:
     - Private Key
     - Address
     infoValues:
-    - 2177ec179db199035ac3708fcc0d105edfc3e0d7bdaeee6602bcc29ccf80c1b8
+    - b34671f96a01bf40868dc0cb88d41a4ef1b43eb6c9a49a0f68620f503c61e95f
     - 0xf8d6e0586b0a20c7
     _gatewayName: Emulator
   - _name: user1
