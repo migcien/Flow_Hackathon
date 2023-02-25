@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 344534917249889798}
   - component: {fileID: 8727351323210717747}
   - component: {fileID: 8952388118510641883}
-  - component: {fileID: 7146531136094105078}
+  - component: {fileID: 1795579260743683314}
   m_Layer: 0
   m_Name: Note 1 Point 1
   m_TagString: Untagged
@@ -27,9 +27,9 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 201487317722774096}
   m_LocalRotation: {x: 0, y: -0.7071068, z: 0.7071068, w: 0}
-  m_LocalPosition: {x: 0.026, y: -0.8358314, z: 0.0029747896}
-  m_LocalScale: {x: 0.007735464, y: 0.0077354643, z: 0.023549994}
-  m_ConstrainProportionsScale: 0
+  m_LocalPosition: {x: -0.0034412, y: -1.036, z: 0.0021458}
+  m_LocalScale: {x: 0.0024563787, y: 0.002456379, z: 0.0074782465}
+  m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 3308947663203482944}
   m_RootOrder: 0
@@ -41,7 +41,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 201487317722774096}
-  m_Mesh: {fileID: 7691512385325463197, guid: 8ff4fe73301e48e458d661cefc1f8c06, type: 3}
+  m_Mesh: {fileID: 849822461747018895, guid: 8ff4fe73301e48e458d661cefc1f8c06, type: 3}
 --- !u!23 &8952388118510641883
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 02a21cac37d529b4b95aceeeb1ffd2d7, type: 2}
+  - {fileID: 2100000, guid: 26d883c096f60164f98edaf848b819f1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!95 &7146531136094105078
+--- !u!95 &1795579260743683314
 Animator:
   serializedVersion: 5
   m_ObjectHideFlags: 0
@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 9091781537336775940}
   - component: {fileID: 7151024826287785064}
   m_Layer: 0
-  m_Name: Note 1 Point
+  m_Name: Note 5 Points
   m_TagString: Points
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -174,7 +174,7 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 70409f8794817a64fbce876cdab432e1, type: 2}
-  - {fileID: 2100000, guid: 02a21cac37d529b4b95aceeeb1ffd2d7, type: 2}
+  - {fileID: 2100000, guid: 26d883c096f60164f98edaf848b819f1, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -269,7 +269,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 9781d5bc585e6e94588d390635235121, type: 2}
+    - {fileID: 11400000, guid: 9730efafcd1e6254fbc1c21c0254eb13, type: 2}
 --- !u!114 &9091781537336775940
 MonoBehaviour:
   m_ObjectHideFlags: 0
