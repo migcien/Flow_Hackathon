@@ -33,6 +33,14 @@ MonoBehaviour:
     - Private Key
     - Address
     infoValues:
-    - 
-    - 
+    - b34671f96a01bf40868dc0cb88d41a4ef1b43eb6c9a49a0f68620f503c61e95f
+    - 0xf8d6e0586b0a20c7
+    _gatewayName: Emulator
+  - _name: User
+    infoKeys:
+    - Address
+    - Private Key
+    infoValues:
+    - 0x01cf0e2f2f715450
+    - bdc0327302dd066a892122789a22a694f2faa47bc68cc9985e0a780b0ed3b4ed
     _gatewayName: Emulator
