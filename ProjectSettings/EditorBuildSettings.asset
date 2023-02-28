@@ -24,6 +24,12 @@ EditorBuildSettings:
     path: Assets/Dance Game/5 Song 3.unity
     guid: 50905e3bd10fe6048818267b320b1405
   - enabled: 1
-    path: Assets/Samples/Flow SDK/1.0.1/Flow Words/Scenes/Game.unity
-    guid: 06248aa0f70353b4ebd453da071b5976
+    path: Assets/Dance Game/7 UI Buy Song 1.unity
+    guid: 7a111131aa454b34f974875c4cae3368
+  - enabled: 1
+    path: Assets/Dance Game/7 UI Buy Song 2.unity
+    guid: 9d5201d2b885f644292491a34e9850b3
+  - enabled: 1
+    path: Assets/Dance Game/7 UI Buy Song 3.unity
+    guid: 86346dbca934c694a91b299d55cc6f3f
   m_configObjects: {}
